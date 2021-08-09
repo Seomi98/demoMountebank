@@ -1,0 +1,15 @@
+{
+  "name": "diy-service",
+  "version": "1.0.0",
+  "description": "An application to mock services.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mountebank": "^2.4.0",
+    "node-fetch": "^2.6.1"
+  }
+}
